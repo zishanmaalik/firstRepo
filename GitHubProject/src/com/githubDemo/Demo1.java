@@ -6,8 +6,6 @@ public class Demo1 {
 		// My first program in github
 		System.out.println("Welcome to GitHub:  ");
 		
-		
-		
 	}
 	
 }
